@@ -1,3 +1,2 @@
 # Cantor-College-website
-
-Add index.html to your browser to view website
+right click on index.html, copy path and paste to your browser to view website
